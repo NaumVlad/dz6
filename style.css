@@ -1,0 +1,32 @@
+.header {
+  max-height: 100px;
+  max-width: 1000px;
+  margin-top: auto;
+  border: 3px solid black;
+}
+
+.header__content {}
+
+.header__title {
+  padding: 10px;
+}
+
+.main {}
+
+.main__content {}
+
+.main__title {}
+
+.main__aside-left {}
+
+.main__aside-left--title {}
+
+.main__aside-right {}
+
+.main__aside-right--title {}
+
+.footer {}
+
+.footer__content {}
+
+.footer__title {}
