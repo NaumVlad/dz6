@@ -5,6 +5,7 @@ body {
 .header {
   height: 96px;
   border: 2px solid black;
+  clear: both;
 }
 
 .main {
